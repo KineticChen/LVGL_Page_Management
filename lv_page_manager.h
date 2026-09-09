@@ -1,3 +1,18 @@
+/**
+ * @file   lv_page_manager.h
+ * @brief  LVGL 通用页面管理框架接口（栈式导航 + 生命周期 + 切换动画）
+ *         Public API of the generic LVGL page manager
+ *         (stack navigation, page lifecycle, transition animations)
+ * @author KineticChen
+ * @date   2026-09-09
+ * @version 1.0.0
+ *
+ * @modify_history
+ *   2026-09-09 v1.0.0 KineticChen - First edition
+ *
+ * @copyright 2026 KineticChen. All rights reserved.
+ */
+
 /*
  * LVGL 通用页面管理框架
  *
